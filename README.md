@@ -1,5 +1,18 @@
 ### Hi there 👋
 
+- 👋 Hi, I’m @MediaBoard
+- 👀 I’m interested in Python, Java, Linux, Shell, CI/CD and DevOps...
+- 🌱 I’m currently learning Python, Ansible, Rundeck and Nginx
+- 💞️ I’m looking to collaborate on open source projects that let me have hands on expirience and growth opportunity
+- 🤔 I’m looking for help with Security + and PNPT, looking for a study group that have commitment to do it 
+- 📫 How to reach me: Twitter, my blog or here can be good options
+- ...
+
+<!---
+mbueso/mbueso is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
+
 <!--
 **MediaBoard/mediaboard** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
